@@ -1,0 +1,8 @@
+{
+  "text.candle-kingdoms-dice.dice_throw.one": "%s %s бросил %s. Выпало: %s.%s",
+  "text.candle-kingdoms-dice.dice_throw.multiple": "%s %s бросил %s %s. Всего выпало: %s.%s. %s",
+  "text.candle-kingdoms-dice.dice_throw.invalid_dice": "Такого кубика нет",
+  "text.candle-kingdoms-dice.dice_throw.no_dice": "Введите кубик",
+  "text.candle-kingdoms-dice.dice_throw.player_only": "Эту команду могут использовать только игроки",
+  "text.candle-kingdoms-dice.size_roll.player_only": "Эту команду могут использовать только игроки"
+}

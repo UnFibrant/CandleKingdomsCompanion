@@ -1,0 +1,8 @@
+{
+  "text.candle-kingdoms-dice.dice_throw.one": "%s %s rolled %s and got %d.%s",
+  "text.candle-kingdoms-dice.dice_throw.multiple": "%s %s rolled %d %s and got total of: %d.%s%s",
+  "text.candle-kingdoms-dice.dice_throw.invalid_dice": "This dice does not exist",
+  "text.candle-kingdoms-dice.dice_throw.no_dice": "Choose a dice",
+  "text.candle-kingdoms-dice.dice_throw.player_only": "Only players can use this command",
+  "text.candle-kingdoms-dice.size_roll.player_only": "Only players can use this command"
+}
